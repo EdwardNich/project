@@ -1,6 +1,21 @@
+Goals: 
+- Buat usaha sendiri
+- Berkarya di bidang IT tidak jauh dari design
+  Req:
+  # Spec PC memadai <- Money
+  # Money <- Kerjaan/Job as Karyawan/Freelancer or any
+  # Kerjaan/Job <- Skill
+  # Skill <- Belajar (any)
+  # Belajar ? Pemprograman, Design, Any <- Youtube, Web documentation, Article/Blog
+
+
+-----------
+
+
+Minimum To get goals
 - Masuk di bootcamp DumbWays kelas 2 bulan
 - Bekerja sebagai Developer
-  # FullstackDev 
+  # Fullstack dev 
     ^ Frontend Dev
     ^ Backend Dev
   # Designer
