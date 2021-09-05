@@ -1,3 +1,5 @@
 Membuat website
-Belajar python
-Belajar c++
+
+Membuat app
+Belajar pytho
+
